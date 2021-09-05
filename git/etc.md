@@ -9,3 +9,5 @@
 5. git add, git commit을 해야지 브랜치별로 수정했을 때 브랜치 별로 값이 다르게  보임
 6. git의 3가지 상태 : `working Directory`, `Staging Area`, `.git Directory(Repository)`
 ![99B3CE3D5B5AC35427](https://user-images.githubusercontent.com/69749222/132119562-e3d6f3ec-052f-4b19-9cb8-b407520cc883.png)
+7. 참고 : https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%8F%84%EC%9B%80%EB%A7%90-%EB%B3%B4%EA%B8%B0
+
