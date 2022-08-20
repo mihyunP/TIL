@@ -1,6 +1,6 @@
-람다식(Lambda Expression)
-함수형 프로그래밍
-(매개변수) -> {실행문;}
+람다식(Lambda Expression)</br>
+함수형 프로그래밍</br>
+(매개변수) -> {실행문;}</br>
 
 StringConcat.java // 인터페이스
 ```
